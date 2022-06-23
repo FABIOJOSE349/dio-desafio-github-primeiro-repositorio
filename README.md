@@ -1,4 +1,4 @@
-# Desafio de Projeto Git/GitHube
+# Desafio de Projeto Git/GitHub
 Primeiro repositório criado para o Desafio de Projeto da DIO.
 
 
