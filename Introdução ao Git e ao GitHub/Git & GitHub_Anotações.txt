@@ -1,0 +1,37 @@
+Introdução ao Git e ao GitHub
+
+Git é um sistema de controle de versões distribuído,
+usado principalmente no desenvolvimento de software, 
+mas pode ser usado para registrar o histórico de edições de qualquer
+tipo de arquivo.
+
+Atalhos:
+
+Ctrl + L = limpa o terminal
+Tab = completa uma palavra ja utilizada antes
+
+Comandos:
+
+ls = exibir arquivos ocultos
+rmdir = apaga diretórios completo
+del = deleta
+dir = listar conteúdo do diretório
+cd = abrir / mudar diretório
+mkdir = criar diretórios
+mv = mover
+
+
+markdown = humanizado e intuitivo
+HTML = convencional códigos
+
+Estrutura / Objetos Fundamentais Git:
+
+Blobs - um objeto blob terá o tipo, o tamanho, \0 e o conteúdo
+guardados e correspondentes ao SHA1 (encriptação).
+
+Trees - armazenam e apontam os blobs (metadados) em diretórios, objeto recursivo
+que pode apontar a outra trees (arvores).
+
+Commit - objeto que dá sentido e junta os demais objetos e suas 
+caracteristicas de criação.
+

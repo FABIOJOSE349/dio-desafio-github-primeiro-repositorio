@@ -1,0 +1,14 @@
+Pensamento Computacional
+
+Processo de pensamento envolvido na expressão de soluções em passos computacionais
+ou algoritmos que podem ser implementados num sistema.
+
+Seus conceitos abrangem habilidades generalistas e estão baseados em quarto pilares:
+
+1. Decomposição: Dividir um problema complexo em subproblemas.
+
+2. Reconhecimento de Padrões: Identificar padrões ou tendências.
+
+3. Abstração: Extrapolar o conceito do problema para uma forma generalista.
+
+4. Designer Algoritmo: Automatizar e definir o cada passo até a solução.
